@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Fusco Page
 locale:           en_US
 logo:    # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
@@ -11,7 +11,7 @@ owner:
   name: Francisco S.L. Rocha
   avatar: calavera.jpeg
   bio: "A brief description of yourself."
-  email: "flopezrocha@gmail.com"
+  email: flopezrocha@gmail.com
   twitter: #username
   facebook: #username
   instagram: #username
