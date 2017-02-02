@@ -2,7 +2,7 @@
 
 title:            Site Title
 locale:           en_US
-logo:              # filename of a logo image that has been placed into your images directory 
+logo:    # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url: /jekyll-academic
 # Enter the following platform usernames if you would like for them to appear on your site.
@@ -11,7 +11,7 @@ owner:
   name: Francisco S.L. Rocha
   avatar: calavera.jpeg
   bio: "A brief description of yourself."
-  email: flopezrocha@gmail.com
+  email: "flopezrocha@gmail.com"
   twitter: #username
   facebook: #username
   instagram: #username
